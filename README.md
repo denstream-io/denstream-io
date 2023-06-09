@@ -1,5 +1,7 @@
 # About me 👋
 
+## As an Electrical/Electronic Engineering Student
+
 As a child, I was utterly astonished by the seemingly magical ability to control every aspect of a TV 
 without even being close to it! As I matured, my insatiable curiosity led me on a relentless pursuit 
 of knowledge, delving deep into the inner workings of electronic gadgets. With each research endeavor, 
